@@ -1,0 +1,1 @@
+(() => { 'use strict'; const key='smaNCTheme'; const saved=localStorage.getItem(key); document.documentElement.dataset.theme=saved||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'); })();

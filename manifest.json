@@ -1,1 +1,7 @@
-{"name":"SMA Darussalam","short_name":"SMA Darussalam","start_url":"index.html","display":"standalone","background_color":"#F8FAFC","theme_color":"#0B3D91","description":"Website dan portal akademik SMA Darussalam"}
+{
+  "name": "SMA Darussalam",
+  "short_name": "SMA D",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#0b3d91"
+}
